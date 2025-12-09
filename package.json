@@ -1,0 +1,27 @@
+{
+  "name": "final-poo2",
+  "version": "1.0.0",
+  "description": "Final para la materia de POO2 de la UCA",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdeb/final-poo2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucasdeb/final-poo2/issues"
+  },
+  "homepage": "https://github.com/lucasdeb/final-poo2#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
